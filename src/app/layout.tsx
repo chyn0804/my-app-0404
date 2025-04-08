@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Providers from "./providers"; // 위에서 만든 파일
+import ClickLogger from "@/components/common/ClickLogger";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -28,7 +29,10 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <Providers>{children}</Providers>
+        <Providers>
+          <ClickLogger /> {/* 이벤트 로그 처리 추가 */}
+          {children}
+        </Providers>
       </body>
     </html>
   );

@@ -1,0 +1,79 @@
+[
+  {
+    "event": "click",
+    "label": "카드 전체 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:17:57.831Z",
+    "receivedAt": "2025-04-08T15:17:59.480Z"
+  },
+  {
+    "event": "click",
+    "label": "메인 버튼 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:18:00.383Z",
+    "receivedAt": "2025-04-08T15:18:04.381Z"
+  },
+  {
+    "event": "click",
+    "label": "메인 버튼 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:18:18.983Z",
+    "receivedAt": "2025-04-08T15:18:19.274Z"
+  },
+  {
+    "event": "click",
+    "label": "카드 전체 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:18:21.327Z",
+    "receivedAt": "2025-04-08T15:18:21.790Z"
+  },
+  {
+    "event": "click",
+    "label": "카드 전체 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:18:27.639Z",
+    "receivedAt": "2025-04-08T15:18:27.908Z"
+  },
+  {
+    "event": "click",
+    "label": "메인 버튼 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:18:30.087Z",
+    "receivedAt": "2025-04-08T15:18:30.754Z"
+  },
+  {
+    "event": "click",
+    "label": "메인 버튼 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:18:28.487Z",
+    "receivedAt": "2025-04-08T15:18:30.890Z"
+  },
+  {
+    "event": "click",
+    "label": "메인 버튼 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:18:30.927Z",
+    "receivedAt": "2025-04-08T15:18:31.200Z"
+  },
+  {
+    "event": "click",
+    "label": "메인 버튼 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:18:52.727Z",
+    "receivedAt": "2025-04-08T15:18:54.711Z"
+  },
+  {
+    "event": "click",
+    "label": "카드 전체 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:19:06.640Z",
+    "receivedAt": "2025-04-08T15:19:06.880Z"
+  },
+  {
+    "event": "click",
+    "label": "카드 전체 클릭",
+    "pathname": "/exam/log-event",
+    "timestamp": "2025-04-08T15:19:11.238Z",
+    "receivedAt": "2025-04-08T15:19:11.433Z"
+  }
+]
